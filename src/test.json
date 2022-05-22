@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "category": "outerwear",
+      "path": "/outerwear",
+      "catImage": "https://www.menslife.com/upload/iblock/f56/s1200_46.jpg",
+      "products": [
+        {
+            "sku": 1,
+            "title": "T-shirt Staff dragon oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }, 
+        {
+            "sku": 2,
+            "title": "T-shirt Staff dragon oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }
+    ]
+    },
+    {
+      "id": 2,
+      "category": "pants",
+      "path": "/pants",
+      "catImage": "https://img.joomcdn.net/41e11d6b8502e00e9d631d795c41bb619ad480ce_original.jpeg",
+      "products": 
+        {
+            "sku": 1,
+            "title": "T-shirt oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }
+      
+    },
+    {
+      "id": 3,
+      "category": "shoes",
+      "path": "/shoes",
+      "catImage": "https://images.izi.ua/94932485",
+      "products": 
+        {
+            "sku": 1,
+            "title": "dragon oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }
+      
+    },
+    {
+      "id": 4,
+      "category": "hats",
+      "path": "/hats",
+      "catImage": "https://img.joomcdn.net/48fcca4313dac85960a2c4e47aaa812145dd38cf_original.jpeg",
+      "products": 
+        {
+            "sku": 1,
+            "title": "hirt Staff dragon oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }
+      
+    },
+    {
+      "id": 5,
+      "category": "bags",
+      "path": "/bags",
+      "catImage": "https://images.shafastatic.net/118737242",
+      "products": 
+        {
+            "sku": 1,
+            "title": "T- Staff dragon oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }
+    },
+    {
+      "id": 6,
+      "category": "accessories",
+      "path": "/accessories",
+      "catImage": "https://www.mytailor.kiev.ua/wp-content/uploads/img/belts-page-intro-image.jpg",
+      "products": 
+        {
+            "sku": 1,
+            "title": "Staff dragon oversize",
+            "image": "./assets/img/products/1.jpeg",
+            "price": 350,
+            "description": "<p> T-shirt from Staff in the style of tai dai with oversize fit will give a feeling of maximum comfort and complement any of your bows. <br> <br> Material: <br> - high-quality European 100% cotton <br> <br> Details and cut: <br> - oversize cut type, <br> - round neckline, <br> - high-quality print on the chest, <br> - tag with the Staff brand logo sewn into the side seam <br> <br> Color: <br> - black / brown. <br> <br> Care: <br> - washing in the usual mode at a temperature not exceeding 30 ° C, without spinning, <br> - bleaching is prohibited, <br> - drying in a suspended state, without the use of artificial drying. > <br> In the photo: <br> - model height - 175 cm, <br> - model weight - 71 kg, <br> - size of items - M. <br> </p>"
+        }
+      
+    }
+  ]

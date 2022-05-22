@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "outerwear",
+    "path": "/outerwear"
+  },
+  {
+    "id": 2,
+    "title": "pants",
+    "path": "/pants"
+  },
+  {
+    "id": 3,
+    "title": "shoes",
+    "path": "/shoes"
+  },
+  {
+    "id": 4,
+    "title": "hats",
+    "path": "/hats"
+  },
+  {
+    "id": 5,
+    "title": "bags",
+    "path": "/bags"
+  },
+  {
+    "id": 6,
+    "title": "accessories",
+    "path": "/accessories"
+  }
+]

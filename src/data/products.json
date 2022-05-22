@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "T-shirt Staff light burgundy basic",
+    "category": "Outerwear",
+    "img": "/1",
+    "price": 330,
+    "descroption": "<p>The basic t-shirt from Staff provides comfort and allows to use this model successfully in various images.</p> <p>Materials:</p> <ul><li>- 10% elastane, 90% cotton.</li></ul><p>Details and cut:</p><ul><li>- classic cut;</li><li>- round neckline;<li>- tag with the staff logo Staff sewn into the side seam.</li></ul>"
+  },
+  {
+    "id": 2,
+    "title": "Windbreaker Staff retro c3",
+    "category": "Outerwear",
+    "img": "/2",
+    "price": 850,
+    "descroption": "<p>Stylish style, universal color, comfortable to wear - all this is a retro windbreaker from Staff.</p> <p>Materials:</p> <ul><li>- wind and moisture protection fabric;</li><li>- 100% polyester.</li></ul><p>Details and cut:</p><ul><li>- classic cut;</li><li>- round neckline;<li>- tag with the staff logo Staff sewn into the side seam.</li></ul>"
+  },
+  {
+    "id": 3,
+    "title": "Jacket Staff mo navy & gray khaki",
+    "category": "Outerwear",
+    "img": "/3",
+    "price": 990,
+    "descroption": "<p>Comfortable ties for heat and width adjustment, tight-fitting cuffs, comfortable hood - in the new model of demi-season jacket from Staff.</p> <p>Materials:</p> <ul><li>- 10% elastane, 90% cotton.</li></ul><p>Details and cut:</p><ul><li>- classic cut;</li><li>- round neckline;<li>- tag with the staff logo Staff sewn into the side seam.</li></ul>"
+  },
+  {
+    "id": 4,
+    "title": "Hoodie Staff red logo oversize",
+    "category": "Outerwear",
+    "img": "/4",
+    "price": 660,
+    "descroption": "<p>Oversize sweatshirt from Staff is the embodiment of style and quality.</p> <p>Materials:</p> <ul><li>- 70% cotton, 25% polyester, 5% elastane.</li></ul><p>Details and cut:</p><ul><li>- classic cut;</li><li>- round neckline;<li>- tag with the staff logo Staff sewn into the side seam.</li></ul>"
+  },
+  {
+    "id": 5,
+    "title": "Staff green basic sweatshirt",
+    "category": "Outerwear",
+    "img": "/5",
+    "price": 420,
+    "descroption": "<p>The basic sweatshirt from Staff will be easily combined with any way and will become a useful part of your wardrobe for all occasions.</p> <ul><li>- high-quality European 100% cotton without pile.</li></ul><p>Details and cut:</p><ul><li>- classic cut;</li><li>- round neckline;<li>- tag with the staff logo Staff sewn into the side seam.</li></ul>"
+  },
+  {
+    "id": 6,
+    "title": "Polo Staff line green",
+    "category": "Outerwear",
+    "img": "/6",
+    "price": 320,
+    "descroption": "<p>A great option for a straight cut polo for everyday use.</p> <p>Materials:</p> <ul><li>- 100% cotton.</li></ul><p>Details and cut:</p><ul><li>- classic cut;</li><li>- round neckline;<li>- tag with the staff logo Staff sewn into the side seam.</li></ul>"
+  }
+]

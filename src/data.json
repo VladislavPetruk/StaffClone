@@ -1,0 +1,17 @@
+[
+    {
+        "id": "AMN0036",
+        "title": "Футболка Staff dragon oversize",
+        "img": "./assets/img/products/1.jpeg",
+        "price": 350,
+        "category": "Футболка"
+    },
+    {
+        "id": "CBS0809",
+        "title": "Сумка через плече Staff lines2",
+        "img": "./assets/img/products/2.jpeg",
+        "price": 320,
+        "category": "Сумки"
+    }
+
+]
